@@ -21,3 +21,7 @@ For simple tasks we may just go to NCBI: [NCBI BLAST](https://blast.ncbi.nlm.nih
 
 [BatchPrimer3](https://wheat.pw.usda.gov/demos/BatchPrimer3/)
 
+
+## Mint links
+
+[Mint at NCBI](https://www.ncbi.nlm.nih.gov/search/all/?term=mentha+longifolia)
