@@ -1,3 +1,9 @@
+
+
+[GitHub Pages](https://knausb.github.io/compbio/)    - This site on GitHub pages.    
+[GitHub Code](https://github.com/knausb/compbio/)    - This site in GitHub code.
+
+
 # compbio
 Comp bio
 
