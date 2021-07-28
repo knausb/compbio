@@ -15,11 +15,15 @@ For simple tasks we may just go to NCBI: [NCBI BLAST](https://blast.ncbi.nlm.nih
 
 # Links
 
-[RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+[BatchPrimer3](https://wheat.pw.usda.gov/demos/BatchPrimer3/)
+
+[GitHub docs](https://docs.github.com/en)
 
 [NCBI BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi).
 
-[BatchPrimer3](https://wheat.pw.usda.gov/demos/BatchPrimer3/)
+[RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+
+
 
 
 ## Mint links
