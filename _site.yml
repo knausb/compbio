@@ -1,12 +1,12 @@
 name: "CompBio"
 output_dir: "docs"
 navbar:
-  title: "Cars"
+  title: "CompBio"
   left:
   - text: "Home"
-   href: index.html
+    href: index.html
   - text: "Speed and Distance"
-   href: speed-and-distance.html
+    href: speed-and-distance.html
 output:
   html_document:
- theme: cosmo
+    theme: cosmo
