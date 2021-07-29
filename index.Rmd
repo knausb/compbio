@@ -20,8 +20,7 @@ For simple tasks we may just go to NCBI: [NCBI BLAST](https://blast.ncbi.nlm.nih
 [GitHub docs](https://docs.github.com/en)    
 [NCBI BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi).    
 [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)    
-
-
+[GitHub Pages](https://resources.github.com/whitepapers/github-and-rstudio/)
 
 
 [GitHub Pages](https://knausb.github.io/compbio/)  - This site on GitHub pages.    
