@@ -8,3 +8,8 @@ output: html_document
 Mint genomics!
 
 
+## Mint links
+
+[Mint at NCBI](https://www.ncbi.nlm.nih.gov/search/all/?term=mentha+longifolia)
+
+
