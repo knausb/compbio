@@ -7,6 +7,8 @@ navbar:
     href: index.html
   - text: "Hemp"
     href: hemp.html
+  - text: "Mint"
+    href: mint.html
 output:
   html_document:
     theme: cosmo

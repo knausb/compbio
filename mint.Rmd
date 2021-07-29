@@ -1,0 +1,10 @@
+---
+title: "Mint"
+author: "Brian J. Knaus"
+date: "7/28/2021"
+output: html_document
+---
+
+Mint genomics!
+
+
